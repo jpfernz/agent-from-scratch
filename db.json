@@ -1,3 +1,28 @@
 {
-  "messages": []
+  "messages": [
+    {
+      "role": "user",
+      "content": "what is my name?",
+      "id": "6bd26013-603f-4fa9-b477-71e095ba83cc",
+      "createdAt": "2025-05-11T10:10:00.367Z"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm sorry, but I don't have access to personal information about you unless you share it with me. How can I assist you today?",
+      "id": "5d58846e-9fa3-4853-9dbb-5e94a71535e6",
+      "createdAt": "2025-05-11T10:10:01.271Z"
+    },
+    {
+      "role": "user",
+      "content": "my name is Jen",
+      "id": "25760164-9535-4ff9-8ddc-377272f31cc4",
+      "createdAt": "2025-05-11T10:11:04.690Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Nice to meet you, Jen! How can I assist you today?",
+      "id": "b3f0afb9-e0d4-4df4-b2bd-ddc6aca0f553",
+      "createdAt": "2025-05-11T10:11:05.352Z"
+    }
+  ]
 }
